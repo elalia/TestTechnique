@@ -1,0 +1,14 @@
+
+.jumbotron {
+    background-color: #2471A3;
+    color: #212F3C;
+}
+
+footer {
+    bottom: 0px;
+    position: absolute;
+    text-align: center;
+    background-color: #AED6F1;
+    width: 100%;
+}
+
